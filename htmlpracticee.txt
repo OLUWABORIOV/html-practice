@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Jesus today yesterday and forever</h1>
+   <header>
+    logo design on top of the page
+    <nav>links to other parts of the page</nav>
+   </header> 
+   <section>
+    Section 1
+    <article>Jesus is lord</article>
+    <article>Jesus is lord</article>
+   </section>
+   <section>
+    Section 2
+    <article>Jesus is lord</article>
+    <article>Jesus is lord</article>
+   </section>
+   <aside>Jesus is the greatest</aside>
+   <footer>JHU &copy;</footer>
+</body>
+</html>
